@@ -76,14 +76,14 @@ __Contributor___ @IIlIlIlIIIlllIIlIIlIllIIllIlIIIl
     # your firebase DB path
     BOT_DB_PATH = f"bot/{BOT_NAME}/"
     # Firebase Config - Required (str for all)
-    FIREBASE_USER = "YOUR@E.MAIL"
-    FIREBASE_PASSWORD = "YOUR_PASSWORD"
+    FIREBASE_USER = "chypher098@gmail.com"
+    FIREBASE_PASSWORD = "dell@1234"
     FIREBASE_CONF = {
-        'apiKey': "",
-        'authDomain': "",
-        'projectId': "",
-        'storageBucket': "",
-        'messagingSenderId': "",
-        'appId': "",
-        'databaseURL': ""
+        'apiKey': "AIzaSyCCmBCWvL9SDRzNmU9woD5_EhAEJC3W46Y",
+        'authDomain': "ytdl-7a7da.firebaseapp.com",
+        'projectId': "ytdl-7a7da",
+        'storageBucket': "ytdl-7a7da.firebasestorage.app",
+        'messagingSenderId': "94931632081",
+        'appId': "1:94931632081:web:0bbd967d83559871c3eaf0",
+        'databaseURL': "https://ytdl-7a7da-default-rtdb.firebaseio.com"
     }
