@@ -68,7 +68,7 @@ class Config(object):
 > • To clean your workspace on server from bad files (e.g. old cookies or media) use **/clean** command (might be helpfull for get rid of errors).
 > • See your usage statistics and logs by sending the **/usage** command.
 
-__Developed by__ @upekshaip
+__Developed by__ @slayerxcorp
 __Contributor___ @IIlIlIlIIIlllIIlIIlIllIIllIlIIIl
 """
 
