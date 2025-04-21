@@ -22,4 +22,4 @@ RUN pip install --no-deps moviepy==1.0.3
 COPY . .
 
 # Command to run the bot
-CMD ["python", "magic.py"]
+CMD gunicorn app:app & python3 magic.py
