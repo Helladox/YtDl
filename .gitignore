@@ -1,6 +1,6 @@
 magic.session
 magic.session-journal
-cookies.txt
+#cookies.txt
 users
 test.py
 logs.txt
